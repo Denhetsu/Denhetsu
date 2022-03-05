@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **leomilo719@gmail.com**
 
-- About my experience : [Being in my first year of computer science I still have very little experience, however the projects I realized in my license have me acquired a lot of knowledge of which I am very proud now !](Being in my first year of computer science I still have very little experience, however the projects I realized in my license have me acquired a lot of knowledge of which I am very proud now !)
-
 - ⚡ Fun fact **I am a metalhead and a real video game enthusiast! And I am a very sociable person too who always smiles and always takes life on the bright side !**
 
 <h3 align="left">Connect with me:</h3>
